@@ -1,4 +1,4 @@
-# reactapp-01
+## 💻 Projeto reactapp-01
 
 Projeto criado durante o curso do discovery na Rocketseat, onde foi desenvolvido uma lista de presença simples, criada com ReactJS.
 
